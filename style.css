@@ -1,0 +1,62 @@
+body{
+    text-align: left;
+    background-image:url("https://images.unsplash.com/32/Mc8kW4x9Q3aRR3RkP5Im_IMG_4417.jpg?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTV8fDRrJTIwYmFja2dyb3VuZCUyMGltYWdlJTIwZm9yJTIwZm9ybXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=600&q=60");
+    background-repeat:repeat;
+    background-size:100%;
+}
+
+legend{
+    border: 2px solid;
+    border-style: outset;
+    border-color: black;
+}
+
+.sub-button{
+    background-color: white;
+    block-size: 40px;
+    width: 100px;
+    border: 5px;
+    border-style: outset;
+}
+
+.fieldset0{
+    background-color:bisque;
+    border: 3px solid;
+    border-radius: 15px;
+}
+.fieldset1{
+    width: 600px;
+    padding: 12px;
+    margin: 10px;
+    background-color:burlywood;
+    border: 1px solid;
+    border-top-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+}
+.fieldset2{
+    width: 600px;
+    padding: 12px;
+    margin: 10px;
+    background-color:burlywood;
+    border: 1px solid;
+    border-top-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+}
+.fieldset3{
+    width: 600px;
+    padding: 12px;
+    margin: 10px;
+    background-color:burlywood;
+    border: 1px solid;
+    border-top-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+}
+.fieldset4{
+    width: 600px;
+    padding: 12px;
+    margin: 10px;
+    background-color:burlywood;
+    border: 1px solid;
+    border-top-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+}
